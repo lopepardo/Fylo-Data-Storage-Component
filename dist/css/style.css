@@ -14,10 +14,13 @@ body {
 .footer {
   font-size: 11px;
   text-align: center;
+  color: #5f71b9;
 }
-
 .footer a {
-  color: #3e52a3;
+  color: #a3b4f5;
+}
+.footer a:hover {
+  color: #ced6f2;
 }
 
 .options__icon-content {
@@ -36,14 +39,9 @@ body {
 }
 
 body {
-  height: 100vh;
   background: url(../img/bg-mobile.svg) no-repeat center center fixed;
   background-size: cover;
   position: relative;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 @media only screen and (min-width: 992px) {
   body {
@@ -51,6 +49,13 @@ body {
     background-size: 100%;
     background-color: #0c122c;
   }
+}
+
+.bg {
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media only screen and (min-width: 992px) {
