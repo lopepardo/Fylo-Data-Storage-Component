@@ -1,0 +1,13 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+
+  @include media($min-lg) {
+    background-color: $very-dark-blue;
+  }
+}
