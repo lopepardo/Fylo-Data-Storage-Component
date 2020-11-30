@@ -4,7 +4,7 @@
 https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 
 ### Project deployment
-https://fylo-data-storage-component-l.vercel.app/
+https://lopepardo.github.io/FyloDataStorageComponent/
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
